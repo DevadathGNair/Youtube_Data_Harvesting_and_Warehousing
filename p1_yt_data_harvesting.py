@@ -10,7 +10,7 @@ import plotly.express as px
 
 
 from googleapiclient.discovery import build
-api_key="AIzaSyCPZhv5GOIXySwbWbv2elYkPHY1bGH-VZA"
+api_key=#your API Key
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 
